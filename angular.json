@@ -106,6 +106,5 @@
         }
       }
     }
-  },
-  "defaultProject": "json-to-form"
+  }
 }
